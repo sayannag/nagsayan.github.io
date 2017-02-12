@@ -7,7 +7,7 @@
 	height: 100%;
 	top: 0;
 	left: 0;
-	font-family: 'Josefin Slab', 'Myriad Pro', 'samarkan', 'samarkan';
+	font-family: 'Josefin Slab', 'Myriad Pro', Arial, sans-serif;
 }
 
 .st-container > input,
@@ -308,7 +308,7 @@ overflow:hidden;
 	-webkit-backface-visibility: hidden;
 }
 .st-panel3 h2 {
-	color: white;
+	color: black;
 	text-shadow: 1px 1px 1px rgba(151,24,64,0.2);
 	position: absolute;
 	font-size: 40px;
@@ -368,7 +368,7 @@ overflow:hidden;
 	-webkit-backface-visibility: hidden;
 }
 .st-panel3 h1{
-color:white;
+color:black;
 text-shadow: 1px 1px 1px rgba(151,24,64,0.2);
 	position: absolute;
 	font-size: 20px;
