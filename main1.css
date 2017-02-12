@@ -142,7 +142,7 @@ overflow:hidden;
 
 }
 .st-panel3{
- background:url(bg1.jpg) no-repeat center center;
+ background:url(bg1.gif) no-repeat center center;
  height:100%;
     left:0;
     overflow:hidden;
@@ -308,7 +308,7 @@ overflow:hidden;
 	-webkit-backface-visibility: hidden;
 }
 .st-panel3 h2 {
-	color: black;
+	color: white;
 	text-shadow: 1px 1px 1px rgba(151,24,64,0.2);
 	position: absolute;
 	font-size: 40px;
@@ -368,7 +368,7 @@ overflow:hidden;
 	-webkit-backface-visibility: hidden;
 }
 .st-panel3 h1{
-color:black;
+color:white;
 text-shadow: 1px 1px 1px rgba(151,24,64,0.2);
 	position: absolute;
 	font-size: 20px;
